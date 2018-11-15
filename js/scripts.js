@@ -1,23 +1,8 @@
-// console.log typo (lucky number)
-// console.log(log(name     nameTwo
-var firstName =  "george";
-    console.log(firstName);
-    let name "Ben"
-    let  name    "Norma"
-    const name "Norma"
-    const+"Hello my name is"
-    const name= Bob":
+console.log(42 ==42}:
+    CONST OBJ1+{
+        NAME:"bEN"
 
-    Console. (greeting= name";
-    )``.log(date):
-    const.log(date):
-    console.log"dsfdfrertrterterttrytryrtytry.length
-    console.log(str.length
-        
-        consol obj e.log(num= new Numbder(42):
-        const array={1.2.3});
-        Console.LOG(ARRAY2.LENGTH):
-    constprompt
-    const real num +parssient(favnum):
-    console.logrealNum):
-    github
+        Console.LOG(OBJ1 ==obj2):.tostring()
+        const arr1=(CAT'):
+        CONST ARR2 =(Cat):
+    }
