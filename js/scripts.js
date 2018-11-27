@@ -55,8 +55,50 @@
     
     let movies=[['The Godfather', 1975], ['Apocolyse Now', 1979], ['The Terminator', 1984]];
     
-    let i;
-    for (i = 0; i < movies.length; i++) {
+    for (let i = 0; i < movies.length; i++) {
         console.log(movies.length);
     }
-   
+   const item1 prompt (Something i need to do;);
+   (let item of to do list)
+   if  item{1} is greater then)
+   longest item will equal item {1}
+   console.logItem(1); 
+   function(logSomething)}
+console.log('Something');
+};
+logzSomething();
+function add() add,b)}
+a=b;
+add(2,2);
+console.log (A,B);
+add (2 );
+function subtract(a,b) }
+console.log(2,b) }
+
+function logSomething() }
+console.log("something");
+const.log(something') }
+function() }
+const add+(a+b)=> }
+console.log(a+b)
+some Array.forEach(function(item) :
+const cat +celestia':
+console.log(cat.subtract(2.2)
+function caldogyears(dogage)
+alert(dogage'7
+calcdogyears(prompt
+
+function calc(lifetimesupply(currentage, supply Perday,);
+function baseball teamName
+class person {
+    name a Ben';
+    sayname ()
+
+function getName()
+const.name= prompt(what is your name'):
+
+function getnum()
+alert NaN, pprompt(another response)
+
+function A. abcdef;git 
+const body document.gitelementsBytagNames('body');
